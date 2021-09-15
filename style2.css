@@ -1,0 +1,9 @@
+
+.temperatureValue{
+    display: inline;
+}
+
+#temperature {
+    width:400px;
+}
+
